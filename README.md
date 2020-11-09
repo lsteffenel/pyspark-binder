@@ -1,5 +1,5 @@
 # simple-pyspark-binder
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/rgbkrk/simple-pyspark-binder/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/lsteffenel/pyspark-binder/edit/master)
 
-Quick demonstration of pyspark on binder
+Binder environment for PySpark training, with RDD and (future) DataFrame notebooks.
