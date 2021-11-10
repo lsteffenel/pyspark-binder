@@ -14,3 +14,4 @@ seaborn
 snakeviz
 sympy
 xlrd
+nltk
